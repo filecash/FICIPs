@@ -48,4 +48,4 @@ This improvement protocol helps achieve that objective for all members of the Fi
 |---|---|---|---|
 |[0001](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0001.md)   | FICIP Purpose and Guidelines  | @Whyrusleeping  | Active  |
 |[0002](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0002.md)   | Support 4G sector | @Noah | Final |
-|[0003](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0003.md)   | Increase the plegde of 4G sector and Support 16G sector  | @Noah | Draft |
+|[0003](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0003.md)   | Adjustment the plegde of 4G sector and Support 16G sector  | @Noah | Draft |
