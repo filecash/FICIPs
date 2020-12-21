@@ -1,22 +1,22 @@
-# support 4G sector
+# Support 4G sector
 
 
 
 ### Brief intro
 
-- support 4G sector
+- Support 4G sector
 
 ### Summary
 
-- 1.Filecash is an IPFS-based distributed storage network, dedicated to building Web 3.0 storage infrastructure based on IPFS, hoping to make use of idle storage space and build cloud storage market for everyone.
+- Filecash is an IPFS-based distributed storage network, dedicated to building Web 3.0 storage infrastructure based on IPFS, hoping to make use of idle storage space and build cloud storage market for everyone.
 
-- 2.Filecash lowers the threshold for storage providers by upgrading current AMD-centric algorithms to support Intel processors to reduce submission time.
+- Filecash lowers the threshold for storage providers by upgrading current AMD-centric algorithms to support Intel processors to reduce submission time.
 
-- 3.Token reward mechanism is based on effective storage, where miners receive satisfying token reward, and the release time is shorter compared to other products in the market.
+- Token reward mechanism is based on effective storage, where miners receive satisfying token reward, and the release time is shorter compared to other products in the market.
 
-- 4.Excessive punishment in Window-post proof algorithms only hinders miner motivation and participation, Filecash therefore seeks to balance between network stability and miner loss.
+- Excessive punishment in Window-post proof algorithms only hinders miner motivation and participation, Filecash therefore seeks to balance between network stability and miner loss.
 
-- 5.As a community-driven project, Filecash encourages and adopts suggestions from communities, developers and miners to achieve a truly autonomous market balance.
+- As a community-driven project, Filecash encourages and adopts suggestions from communities, developers and miners to achieve a truly autonomous market balance.
 
 ### Why 4G sector
 
@@ -30,13 +30,13 @@ Note: github does not support formulas, search and install MathJax Plugin for Gi
 
 https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod
 
-##### support 4G sector
-- 1.Precommit pre-pledge
+##### Support 4G sector
+- Precommit pre-pledge
 $$
 collateralpre = 20 \times \frac{Sector}{Network} \times CurrEpochReward \times Epochslnday \times \frac{110}{100}
 $$
 
-- 2.Commit2 pledge
+- Commit2 pledge
 $$
 ipBase = 20 \times \frac{SectorPower}{networkPower} \times CurrEpochReward\times Epochslnday
 $$
@@ -49,8 +49,8 @@ $$
 initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \times 4G) \times  \frac{110}{100}
 $$
 
-- 3.Release
+- Refund
 
 $$
-collateralpre - initialPledge
+Refund = collateralpre - initialPledge
 $$

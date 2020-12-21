@@ -1,9 +1,9 @@
-# Increase the plegde of 4G sector and support 16G sector
+# Increase the plegde of 4G sector and Support 16G sector
 
 ### Brief intro
 
-- 1. Increase the plegde of 4G sector
-- 2. support 16G sector
+- Increase the plegde of 4G sector
+- Support 16G sector
 
 ### Summary
 
@@ -11,8 +11,8 @@ We have accumulated much development experience in tech since the launch of FiIe
 
 ### Reason for such adjustment
 
-- 1.Filecash becomes more friendly to small miners by adding the 4G sector, which ensures a lowered threshold for continuous stability. Participants will benefit from this much stabilized FIC ecology development.
-- 2.More and more miners desire a larger sector after the on-lining of the 4G sectors. While stabilizing the 4G sectors, we now add 16G sector for improved network storage capacity and healthier development of FIC ecological economy.
+- Filecash becomes more friendly to small miners by adding the 4G sector, which ensures a lowered threshold for continuous stability. Participants will benefit from this much stabilized FIC ecology development.
+- More and more miners desire a larger sector after the on-lining of the 4G sectors. While stabilizing the 4G sectors, we now add 16G sector for improved network storage capacity and healthier development of FIC ecological economy.
 
 ### Technical specifications
 
@@ -22,7 +22,7 @@ https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhej
 
 ##### Adjustment of 4G sector
 
-- 1.Commit2 pledge
+- Commit2 pledge
 $$
 ipBase = 20 \times \frac{SectorPower}{networkPower} \times CurrEpochReward\times Epochslnday
 $$
@@ -36,20 +36,20 @@ initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \tim
 $$
 
 
-##### support 16G sector
+##### Support 16G sector
 
-- 1.Precommit pre-pledge
+- Precommit pre-pledge
 $$
 collateralpre = 20 \times \frac{Sector}{Network} \times CurrEpochReward \times Epochslnday \times \frac{110}{100}
 $$
 
-- 2.Commit2 pledge
+- Commit2 pledge
 $$
 initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \times 16G \times  \frac{InitialFactorof16G}{InitialFactorDenom}) \times  \frac{110}{100}
 $$
 
-- 3.Release
+- Refund
 
 $$
-collateralpre - initialPledge
+Refund = collateralpre - initialPledge
 $$
