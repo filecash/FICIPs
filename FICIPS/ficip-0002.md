@@ -30,7 +30,7 @@ Note: github does not support formulas, search and install MathJax Plugin for Gi
 
 https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod
 
-##### 4G sector added
+##### support 4G sector
 - 1.Precommit pre-pledge
 $$
 collateralpre = 20 \times \frac{Sector}{Network} \times CurrEpochReward \times Epochslnday \times \frac{110}{100}

@@ -36,7 +36,7 @@ initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \tim
 $$
 
 
-##### 16G sector added
+##### support 16G sector
 
 - 1.Precommit pre-pledge
 $$
@@ -45,7 +45,7 @@ $$
 
 - 2.Commit2 pledge
 $$
-initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \times 4G \times  \frac{InitialFactorof16G}{InitialFactorDenom}) \times  \frac{110}{100}
+initialPledge=Min (ipBase + additionalIP , SpaceRaceInitialPledgeMaxPerByte \times 16G \times  \frac{InitialFactorof16G}{InitialFactorDenom}) \times  \frac{110}{100}
 $$
 
 - 3.Release
