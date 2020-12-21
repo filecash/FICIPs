@@ -26,6 +26,10 @@ Large sectors have high requirements for equipment memory and performance, and i
 
 ### Technical specifications
 
+Note: github does not support formulas, search and install MathJax Plugin for Github in Google Store
+
+https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod
+
 ##### 4G sector added
 - 1.Precommit pre-pledge
 $$

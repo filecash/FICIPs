@@ -16,6 +16,10 @@ We have accumulated much development experience in tech since the launch of FiIe
 
 ### Technical specifications
 
+Note: github does not support formulas, search and install MathJax Plugin for Github in Google Store
+
+https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod
+
 ##### Adjustment of 4G sector
 
 - 1.Commit2 pledge
