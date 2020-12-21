@@ -41,3 +41,11 @@ FICIPs are classified into three categories:
 Filecash is still in its infancy, but it has the potential to play a central role in the storage and distribution of humanity’s information. To help the network grow and evolve, it is critical for the community to collectively be engaged in proposing, discussing, and implementing changes that improve the network and its operations. 
 
 This improvement protocol helps achieve that objective for all members of the Filecash community (developers, miners, clients, token holders, ecosystem partners, and more). 
+
+## FICIPs
+
+|FICIP #   | Title  | Author  | Status  |
+|---|---|---|---|
+|[0001](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0001.md)   | FICIP Purpose and Guidelines  | @Whyrusleeping  | Active  |
+|[0002](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0002.md)   | support 4G sector | @Noah | Final |
+|[0003](https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0003.md)   | Increase the plegde of 4g sector and support 16g sector  | @Noah | Final |
