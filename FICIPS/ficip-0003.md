@@ -1,8 +1,8 @@
-# Increase the plegde of 4G sector and Support 16G sector
+# Adjustment the plegde of 4G sector and Support 16G sector
 
 ### Brief intro
 
-- Increase the plegde of 4G sector
+- Adjustment the plegde of 4G sector
 - Support 16G sector
 
 ### Summary
@@ -20,7 +20,7 @@ Note: github does not support formulas, search and install MathJax Plugin for Gi
 
 https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod
 
-##### Adjustment of 4G sector
+##### Adjustment the plegde of 4G sector
 
 - Commit2 pledge
 $$
