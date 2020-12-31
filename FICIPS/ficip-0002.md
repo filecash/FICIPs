@@ -33,16 +33,16 @@ https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhej
 ##### Support 4G sector
 - Precommit pre-pledge
 $$
-collateralpre = 20 \times \frac{Sector}{Network} \times CurrEpochReward \times Epochslnday \times \frac{110}{100}
+collateralpre = 20 \times \frac{SectorPower}{NetworkPower} \times CurrEpochReward \times Epochslnday \times \frac{110}{100}
 $$
 
 - Commit2 pledge
 $$
-ipBase = 20 \times \frac{SectorPower}{networkPower} \times CurrEpochReward\times Epochslnday
+ipBase = 20 \times \frac{SectorPower}{NetworkPower} \times CurrEpochReward\times Epochslnday
 $$
 
 $$
-additionalIP = \frac{30}{100} \times CircSupply \times \frac{SectorPower}{networkPower}
+additionalIP = \frac{30}{100} \times CircSupply \times \frac{SectorPower}{NetworkPower}
 $$
 
 $$
