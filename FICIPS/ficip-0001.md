@@ -1,13 +1,3 @@
----
-ficip: 0001
-title: FICIP Purpose and Guidelines
-status: Active
-type: Organizational
-author: Whyrusleeping <whyrusleeping@protocol.ai> 
-        https://github.com/filecash/FICIPs/blob/main/FICIPS/ficip-0001.md
-created: 2019-04-02
----
-
 ## What is a FICIP?
 
 FICIP stands for Filecash Improvement Proposal. A FICIP is a design document providing information to the Filecash community, or describing a new feature for Filecash or its processes or environment. The FICIP should provide a concise technical specification of the feature and a rationale for its adoption. The FICIP author is responsible for building consensus within the community and documenting dissenting opinions.
@@ -185,7 +175,7 @@ spec-sections:
   - section-intro
   - section-libraries.libp2p
   - section-systems.filecoin_markets.storage_market.deal-flow
-  ```
+```
 
 #### `updated` header
 
